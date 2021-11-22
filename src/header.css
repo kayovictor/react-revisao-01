@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(108, 190, 223);
+    border-bottom: black solid 3px;
+}
+
+header nav a {
+    text-decoration: none;
+    line-height: 60px;
+    margin: 0 15px 0 13px;
+    color: black;
+    font-weight: bold;
+}
+
+header nav a:hover{
+    border-bottom: 3px solid black;
+}
+
+.primeiroLink{
+margin-left: 55px;
+}
